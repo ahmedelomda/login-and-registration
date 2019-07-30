@@ -1,0 +1,72 @@
+
+body{
+	background-image: url("../photo/log4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#loginform{
+	
+	background-color: white;
+	padding: 50px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	border-radius: 5px;
+	/*
+	width:37%;
+	*/
+}
+
+.c1{
+	
+	margin-top: 90px;
+}
+
+h5{ font-family:Arial (Body CS) ;
+	margin-bottom: 45px;
+	text-align: center;
+	font-size: 30px;
+     font-weight: bold;
+	letter-spacing: .9px;
+}
+
+
+label{
+	
+	font-weight: bolder;
+	font-size: 17px;
+}
+
+
+.btn{
+	margin-top: 35px;
+    border-radius: 30px;
+	background-color: #f5051ce0;
+	height: 55px;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+	letter-spacing: 2px;
+}
+
+.btn:hover{
+	color: white;
+}
+
+.form-control{
+	
+	height: 45px;
+}
+.c2{
+	
+	font-size: 16px
+}
+
+.c3{
+	color: #f5051ce0;
+}
+
+.c3:hover{
+	color: red;
+	text-decoration: none;
+}

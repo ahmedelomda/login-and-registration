@@ -1,0 +1,88 @@
+
+
+
+
+
+
+body{
+	background-image: url("../photo/log4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1000px;
+}
+
+
+
+form{
+	
+	background-color: white;
+	padding: 50px;
+	padding-bottom: 20px;
+	padding-top: 40px;
+	border-radius: 5px;
+	/*
+	width:37%;
+	*/
+}
+
+.c1{
+	
+	margin-top: 90px;
+}
+
+h5{ font-family:Arial (Body CS) ;
+	margin-bottom: 45px;
+	text-align: center;
+	font-size: 25px;
+     font-weight: bold;
+}
+
+
+label{
+	
+	font-weight: bolder;
+	font-size: 17px;
+}
+
+
+.btn{
+	margin-top: 35px;
+   border-radius: 30px;
+	background-color: #f5051ce0;
+	height: 55px;
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+	letter-spacing: .8px;
+}
+
+.btn:hover{
+	color: white;
+}
+
+.form-control{
+	
+	height: 45px;
+}
+.c2{
+	
+	font-size: 16px
+}
+
+.c3{
+	color: #f5051ce0;
+}
+
+.c3:hover{
+	color: red;
+	text-decoration: none;
+}
+
+@media screen and (min-width: 1080px) {
+    
+	form{
+		width: 88%;
+	}
+    
+ 
+}
